@@ -1,0 +1,2 @@
+create table employee1 (username char(20), password char(10), name char(10))
+select * from employee1
